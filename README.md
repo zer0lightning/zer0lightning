@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zer0lightning
-- 👀 I’m interested in offensive security, malware analysis, and automation.
+- 👀 I’m interested in offensive/defensive security, malware analysis, and automation.
 - 🌱 I’m currently learning docker and kubernetes.
 - 💞️ I’m looking to collaborate on opensource.
 - 📫 How to reach me ...
